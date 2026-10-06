@@ -13,7 +13,7 @@ My portfolio: https://parthsingh03.github.io
 
 ### 🚀 about me
 
-<img align="right" width="1080" src="assets/sidebar.jpg" />
+<img align="right" width="220" src="assets/sidebar.jpg" />
 
 - 🎓 B.Tech ECE, Class of 2030 @ **GLA University**
 - 🔭 I work where math meets machines — orbital mechanics, computer vision, energy systems
