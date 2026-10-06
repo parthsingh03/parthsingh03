@@ -22,7 +22,7 @@ My portfolio: https://parthsingh03.github.io
 - ⚡ Model campus energy systems — occupancy-aware HVAC optimization, peer-to-peer solar credit markets
 - 🕶️ Currently building an OSINT intelligence dashboard Gotham — multi-source entity fusion, geospatial analysis
 
-- 
+ 
 
 ### 📦 selected work
 
