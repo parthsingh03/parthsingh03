@@ -8,7 +8,7 @@ student builder from india. i like turning random ideas into working demos — z
 |---|---|
 | [**orbital-live**](https://github.com/parthsingh03/orbital-live) | real-time 3D satellite tracker — ~16k objects rendered with three.js + SGP4, live celestrak data, fully offline-capable |
 | [**Drone-to-3d**](https://github.com/parthsingh03/Drone-to-3d) | real photogrammetry pipeline — drone photos in, textured 3D building out. 61 images registered, 33k-point cloud, 150k-tri mesh |
-| **GridPulse** ⚡(https://github.com/parthsingh03/GridPulse) | campus energy ecosystem — occupancy-aware hvac/lighting, live energy dashboard, p2p solar credit trading.| 
+| [**GridPulse**](https://github.com/parthsingh03/GridPulse) | campus energy ecosystem — occupancy-aware hvac/lighting, live energy dashboard, p2p solar credit trading.| 
 
 ## 🔨 currently building
 
