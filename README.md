@@ -47,6 +47,8 @@ My portfolio: https://parthsingh03.github.io
 
 [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parthsingh03)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parth-singh-039988426)
+[!email](mailto:psingh.up85@gmail.com)
+
 
 </div>
 
