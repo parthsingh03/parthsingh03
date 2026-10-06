@@ -1,5 +1,7 @@
 # hey, i'm parth 👋
 
+🌐 My portfolio: https://parthsingh03.github.io
+
 student builder from india. i like turning random ideas into working demos — zero-install, unzip-and-open stuff. if it doesn't run on a double-click, it's not done.
 
 ## 🚀 projects
