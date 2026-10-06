@@ -4,6 +4,8 @@
 
 # hey, i'm parth 👋
 
+My portfolio: https://parthsingh03.github.io
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2EE6A8&center=true&vCenter=true&width=640&lines=i+turn+orbital+mechanics+into+pixels;photogrammetry%2C+propagation%2C+power+grids;if+it+doesn%27t+compute%2C+it+doesn%27t+ship)](https://git.io/typing-svg)
 
 </div>
