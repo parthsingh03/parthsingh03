@@ -13,7 +13,7 @@ My portfolio: https://parthsingh03.github.io
 
 ### 🚀 about me
 
-<img align="right" width="240" src="assets/sidebar.jpg" />
+<img align="right" width="380" src="assets/sidebar.jpg" />
 
 - 🎓 B.Tech ECE, Class of 2030 @ **GLA University**
 - 🔭 I work where math meets machines — orbital mechanics, computer vision, energy systems
@@ -23,6 +23,7 @@ My portfolio: https://parthsingh03.github.io
 - 🕶️ Currently building an OSINT intelligence dashboard Gotham — multi-source entity fusion, geospatial analysis
 
  
+<br><br><br>
 
 ### 📦 selected work
 
