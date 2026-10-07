@@ -38,7 +38,7 @@ My portfolio: https://parthsingh03.github.io
 ### 💻 tech stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=js,html,css,py,threejs,github,vscode" />
+<img src="https://skillicons.dev/icons?i=js,html,css,py,threejs,github,vscode,java" />
 </div>
 
 ### 🤝 connect
