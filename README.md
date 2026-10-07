@@ -40,7 +40,7 @@ My portfolio: https://parthsingh03.github.io
 <div align="left">
 <img src="https://skillicons.dev/icons?i=c,git,github,vscode" />
 
-🌱 <em>Currently learning:</em>
+🌱 <em>Currently learning:</em> </div>
 <img src="https://skillicons.dev/icons?i=html,css,js,threejs" />
 </div>
 
