@@ -39,8 +39,9 @@ My portfolio: https://parthsingh03.github.io
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=c,git,github,vscode"/> 
+ 
 Currently learning:
-<img src="https://skillicons.dev/icons?j= HTML,CSS,JavaScript"/> — rebuilding all my projects solo, one phase at a time.*"/>
+<img src="https://skillicons.dev/icons?i= HTML,CSS,JavaScript"/>
 </div>
 
 ### 🤝 connect
