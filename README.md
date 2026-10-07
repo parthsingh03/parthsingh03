@@ -37,12 +37,13 @@ My portfolio: https://parthsingh03.github.io
 
 ### 💻 tech stack
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=c,git,github,vscode"/> 
- 
-Currently learning:
-<img src="https://skillicons.dev/icons?i=html,css,js,threejs"/>
+<div align="left">
+<img src="https://skillicons.dev/icons?i=c,git,github,vscode" />
+
+🌱 <em>Currently learning:</em>
+<img src="https://skillicons.dev/icons?i=html,css,js,threejs" />
 </div>
+
 
 ### 🤝 connect
 
