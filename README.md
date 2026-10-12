@@ -23,6 +23,7 @@ My portfolio: https://parthsingh03.github.io
 - 🏗️ Reconstruct 3D buildings from drone photos — 61 images, 33.5k-point cloud, **0.42px reprojection error**
 - ⚡ Model campus energy systems — occupancy-aware HVAC optimization, peer-to-peer solar credit markets
 - 🕶️ Currently building an OSINT intelligence dashboard Gotham — multi-source entity fusion, geospatial analysis
+- 📡 Built **AirGap** — offline mesh messaging for Android: no internet, no server, messages hop phone-to-phone
 
  
 <br><br><br>
@@ -31,9 +32,10 @@ My portfolio: https://parthsingh03.github.io
 
 | project | what it is |
 | --- | --- |
+| [**AirGap**](https://github.com/parthsingh03/AirGap) | Offline Bluetooth mesh messaging for Android. No internet, no server, no accounts — phones talk directly and relay messages up to 3 hops. Kotlin + Nearby Connections |
 | [**orbital-live**](https://github.com/parthsingh03/orbital-live) | Real-time 3D satellite tracker. SGP4 propagation in Web Workers @ 4Hz, \~16k objects, live CelesTrak data, fully offline-capable |
 | [**Drone-to-3d**](https://github.com/parthsingh03/Drone-to-3d) | Structure-from-motion photogrammetry. 61 images registered, 33.5k-point cloud (0.42px reprojection error), 150k-tri textured mesh |
-| [**gridpulse**](https://github.com/parthsingh03/gridpulse) ⚡ | Campus energy ecosystem. Occupancy-aware HVAC/lighting optimization, live dashboards, P2P solar credit trading — 7 working variants, Yuva Yodha hackathon build |
+| [**gridpulse**](https://github.com/parthsingh03/gridpulse) ⚡ | Campus energy ecosystem. Occupancy-aware HVAC/lighting optimization, live dashboards, P2P solar credit trading — Yuva Yodha hackathon build |
 
 ### 💻 tech stack
 
@@ -51,7 +53,7 @@ My portfolio: https://parthsingh03.github.io
 
 [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parthsingh03)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parth-singh-039988426)
-[![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logoColor=white)](mailto:psingh.up85@gmail.com)
+[![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:psingh.up85@gmail.com)
 
 
 </div>
