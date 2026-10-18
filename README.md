@@ -65,6 +65,7 @@ My portfolio: https://parthsingh03.github.io
 
 <img src="https://github-readme-stats.vercel.app/api?username=parthsingh03&show_icons=true&theme=dark&hide_border=true" height="170" />
 <img src="https://streak-stats.demolab.com?user=parthsingh03&theme=dark&hide_border=true" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthsingh03&layout=compact&theme=dark&hide_border=true" height="170" />
 
 </div>
 
