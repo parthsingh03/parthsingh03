@@ -44,7 +44,7 @@ My portfolio: https://parthsingh03.github.io
 <img src="https://skillicons.dev/icons?i=c,git,github,vscode" />
 
 🌱 <em>Currently learning:</em> </div>
-<img src="https://skillicons.dev/icons?i=html,css,js,threejs" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,threejs" />
 </div>
 
 
