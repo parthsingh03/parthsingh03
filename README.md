@@ -32,6 +32,7 @@ My portfolio: https://parthsingh03.github.io
 
 | project | what it is |
 | --- | --- |
+| [**TrailHead**](https://github.com/parthsingh03/TrailHead) | Paste any public GitHub repo, get the order to read it in — README first, entry point, core modules, tests last — built from the repo's real import graph, plus the skip list. JavaScript + GitHub API · [Live](https://parthsingh03.github.io/TrailHead/) |
 | [**INDEX**](https://github.com/parthsingh03/INDEX) | Class study-material app for Android. Shared subject folders, group chat, notices and a built-in PDF maker — no more hunting for PDFs buried in the class WhatsApp group. Kotlin + Firebase + Cloudinary |
 | [**AirGap**](https://github.com/parthsingh03/AirGap) | Offline Bluetooth mesh messaging for Android. No internet, no server, no accounts — phones talk directly and relay messages up to 3 hops. Kotlin + Nearby Connections |
 | [**orbital-live**](https://github.com/parthsingh03/orbital-live) | Real-time 3D satellite tracker. SGP4 propagation in Web Workers @ 4Hz, \~16k objects, live CelesTrak data, fully offline-capable |
