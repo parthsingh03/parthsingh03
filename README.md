@@ -37,7 +37,7 @@ My portfolio: https://parthsingh03.github.io
 | [**AirGap**](https://github.com/parthsingh03/AirGap) | Offline Bluetooth mesh messaging for Android. No internet, no server, no accounts — phones talk directly and relay messages up to 3 hops. Kotlin + Nearby Connections |
 | [**orbital-live**](https://github.com/parthsingh03/orbital-live) | Real-time 3D satellite tracker. SGP4 propagation in Web Workers @ 4Hz, \~16k objects, live CelesTrak data, fully offline-capable |
 | [**Drone-to-3d**](https://github.com/parthsingh03/Drone-to-3d) | Structure-from-motion photogrammetry. 61 images registered, 33.5k-point cloud (0.42px reprojection error), 150k-tri textured mesh |
-| [**gridpulse**](https://github.com/parthsingh03/gridpulse) ⚡ | Campus energy ecosystem. Occupancy-aware HVAC/lighting optimization, live dashboards, P2P solar credit trading — Yuva Yodha hackathon build |
+| [**gridpulse**](https://github.com/parthsingh03/gridpulse) ⚡ | Campus energy ecosystem. Occupancy-aware HVAC/lighting optimization, live dashboards, P2P solar credit trading |
 
 ### 💻 tech stack
 
