@@ -17,7 +17,7 @@ My portfolio: https://parthsingh03.github.io
 <br><br><br>
 
 
-- 🎓 B.Tech ECE, Class of 2030 @ **GLA University**
+- 🎓 B.Tech ECE, Class of 2030 
 - 🔭 I work where math meets machines — orbital mechanics, computer vision, energy systems
 - 🛰️ Built a real-time satellite tracker propagating **\~16,000 orbits** with SGP4 in Web Workers
 - 🏗️ Reconstruct 3D buildings from drone photos — 61 images, 33.5k-point cloud, **0.42px reprojection error**
